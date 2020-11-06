@@ -1,4 +1,2 @@
-print("test")
-
-a=20
-print(a)
+name=input("Enter name")
+print(name)
